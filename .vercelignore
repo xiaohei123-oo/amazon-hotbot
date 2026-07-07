@@ -1,0 +1,11 @@
+.env
+.env.local
+.git
+.pytest_cache
+__pycache__
+*.pyc
+data
+outputs
+work
+work_appjs_check.js
+work_styles_check.css
